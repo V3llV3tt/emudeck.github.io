@@ -3322,7 +3322,98 @@ PrimeHack/Tap Grapple Repeatedly To Pull = True
 PrimeHack/Spring Ball = `Button 3`
 PrimeHack/Grapple Lasso = `Full Axis 2+`
 ```
+***
 
+### Fatal Frame 2 Wii Remake
+
+credit: 'V3LLV3TT'
+visit  _VellVett_ on reddit for more information
+
+...conf
+Device = SDL/0/Steam Deck Controller
+Buttons/A = `Button S`+`SteamDeck/0/Steam Deck:L1`
+Buttons/B = `Button E`
+Buttons/1 = `Button N`
+Buttons/2 = `Button W`
+Buttons/- = Back
+Buttons/+ = Start
+Buttons/Home = Return
+D-Pad/Up = `Pad N`
+D-Pad/Down = `Pad S`
+D-Pad/Left = `Pad W`
+D-Pad/Right = `Pad E`
+IR/Vertical Offset = 12.
+IR/Total Yaw = 19.
+IR/Total Pitch = 22.
+IR/Auto-Hide = True
+IR/Up = `XInput2/0/Virtual core pointer:Cursor Y-`
+IR/Down = `XInput2/0/Virtual core pointer:Cursor Y+`
+IR/Left = `XInput2/0/Virtual core pointer:Cursor X-`
+IR/Right = `XInput2/0/Virtual core pointer:Cursor X+`
+IR/Hide = `Thumb L`
+IR/Calibration = 100.00 101.96 108.24 112.67 116.44 114.62 108.11 101.96 100.00 101.96 108.11 113.10 115.81 113.90 108.24 101.96 100.00 101.96 108.24 114.93 115.13 115.19 108.24 101.96 100.00 101.96 108.13 112.88 112.20 110.97 108.24 101.96
+Shake/X = `SteamDeck/0/Steam Deck:L4`
+Shake/Y = `SteamDeck/0/Steam Deck:L4`
+Shake/Z = `SteamDeck/0/Steam Deck:L4`
+Tilt/Forward = `SteamDeck/0/Steam Deck:Right Stick Y-`
+Tilt/Backward = `SteamDeck/0/Steam Deck:Right Stick Y+`
+Tilt/Left = `SteamDeck/0/Steam Deck:Right Stick X-`
+Tilt/Right = `SteamDeck/0/Steam Deck:Right Stick X+`
+Tilt/Calibration = 100.00 101.96 108.24 111.99 111.21 109.72 108.24 101.96 100.00 101.96 108.24 116.51 117.34 115.37 108.24 101.96 100.00 101.96 108.24 114.41 115.38 115.20 108.24 101.96 100.00 101.96 108.24 111.16 109.95 110.68 108.24 101.96
+IMUIR/Enabled = False
+IMUAccelerometer/Up = `Accel Up`
+IMUAccelerometer/Down = `Accel Down`
+IMUAccelerometer/Left = `Accel Left`
+IMUAccelerometer/Right = `Accel Right`
+IMUAccelerometer/Forward = `Accel Forward`
+IMUAccelerometer/Backward = `Accel Backward`
+IMUGyroscope/Pitch Up = `Gyro Pitch Up`
+IMUGyroscope/Pitch Down = `Gyro Pitch Down`
+IMUGyroscope/Roll Left = `Gyro Roll Left`
+IMUGyroscope/Roll Right = `Gyro Roll Right`
+IMUGyroscope/Yaw Left = `Gyro Yaw Left`
+IMUGyroscope/Yaw Right = `Gyro Yaw Right`
+Hotkeys/Sideways Toggle = Back&`Thumb R`
+Extension = Nunchuk
+Nunchuk/Buttons/C = `SteamDeck/0/Steam Deck:L2 Full Pull`
+Nunchuk/Buttons/Z = `SteamDeck/0/Steam Deck:R2 Full Pull`
+Nunchuk/Stick/Up = `Axis 1-`
+Nunchuk/Stick/Down = `Axis 1+`
+Nunchuk/Stick/Left = `Axis 0-`
+Nunchuk/Stick/Right = `Axis 0+`
+Nunchuk/Stick/Calibration = 100.00 101.96 107.70 111.02 112.30 107.98 106.91 101.96 100.00 101.96 108.24 113.14 114.55 111.79 108.24 101.96 100.00 101.96 108.24 113.60 114.92 113.33 108.24 101.96 100.00 101.96 108.24 110.60 109.10 108.88 108.24 101.96
+Nunchuk/Shake/X = `Full Axis 2+`
+Nunchuk/Shake/Y = `Full Axis 2+`
+Nunchuk/Shake/Z = `Full Axis 2+`
+Classic/Buttons/A = `Button E`
+Classic/Buttons/B = `Button S`
+Classic/Buttons/X = `Button W`
+Classic/Buttons/Y = `Button N`
+Classic/Buttons/ZL = `Shoulder L`
+Classic/Buttons/ZR = `Shoulder R`
+Classic/Buttons/- = Back
+Classic/Buttons/+ = Start
+Classic/Left Stick/Up = `Axis 1-`
+Classic/Left Stick/Down = `Axis 1+`
+Classic/Left Stick/Left = `Axis 0-`
+Classic/Left Stick/Right = `Axis 0+`
+Classic/Left Stick/Calibration = 100.00 101.96 107.63 112.05 110.67 111.78 105.49 101.89 100.00 101.96 108.24 112.08 112.34 109.50 107.04 101.96 100.00 101.96 106.95 114.00 115.73 117.91 108.24 101.96 100.00 101.96 108.24 106.97 109.81 109.07 108.24 101.96
+Classic/Right Stick/Up = `Axis 4-`
+Classic/Right Stick/Down = `Axis 4+`
+Classic/Right Stick/Left = `Axis 3-`
+Classic/Right Stick/Right = `Axis 3+`
+Classic/Right Stick/Calibration = 100.00 101.96 108.24 114.54 113.64 112.59 108.24 101.96 100.00 101.96 107.25 110.90 112.07 111.83 108.24 101.96 100.00 101.96 108.24 116.67 117.82 117.03 108.24 101.96 100.00 101.96 108.24 110.72 111.66 112.20 108.24 101.96
+Classic/Triggers/L = `Trigger L`
+Classic/Triggers/R = `Trigger R`
+Classic/Triggers/L-Analog = `Trigger L`
+Classic/Triggers/R-Analog = `Trigger R`
+Classic/D-Pad/Up = `Pad N`
+Classic/D-Pad/Down = `Pad S`
+Classic/D-Pad/Left = `Pad W`
+Classic/D-Pad/Right = `Pad E`
+Rumble/Motor = Strong
+Options/Upright Wiimote = `Trigger L`
+```
 ***
 
 #### Dolphin Controller Profile
